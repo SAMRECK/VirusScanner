@@ -14,7 +14,7 @@ The purpose of this project is to provide a simple yet efficient scanning softwa
 Java IDE (Netbeans), SQL (MySql).
 
 # How to run
-Build the project in IDE.
-Create a SQL databse.
-Connect database with the java application.
-Run the application.
+- Build the project in IDE.
+- Create a SQL databse.
+- Connect database with the java application.
+- Run the application.
